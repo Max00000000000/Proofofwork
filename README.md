@@ -1,0 +1,2 @@
+# Proofofwork
+PoW related docs
